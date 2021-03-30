@@ -23,7 +23,7 @@ Spotify playlist: https://open.spotify.com/playlist/2XrNf2azW96IyoM8zGWSsl?si=84
 - [Launching at Scale During a Pandemic](https://noti.st/rgalieva/uexsvf/launching-an-enterprise-web-product-at-scale-during-the-covid-19-pandemic) by Regina Galieva
 - Building a Pinterest Clone by Jordan Hawker
 - [Keep It Local](https://slides.com/chriskrycho/keep-it-local-emberconf21) by Chris Krycho
-- Learning Ember in 2021 by Lenora Porter
+- [Learning Ember in 2021](https://slides.com/lenoraporter/deck) by Lenora Porter
 - Building a Realtime App with Firebase and Ember M3 by Chris Garrett
 - Typed Ember extends Confidence by Krystan Huffmenne
 - Please wait… Oh, It Didn't Work! by Tobias Bieniek
