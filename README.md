@@ -20,7 +20,7 @@ Spotify playlist: https://open.spotify.com/playlist/2XrNf2azW96IyoM8zGWSsl?si=84
 - Keynote Part 1 by Yehuda Katz
 - Keynote Part 2 by Godfrey Chan
 - [HTML-First Apps are the Future](https://docs.google.com/presentation/d/1wbCUyP6R6E-uNrMBpDGG1-iH6epUJKbq6v_Lt4TYkjs/edit#slide=id.g35f391192_00) by Jen Weber
-- Launching at Scale During a Pandemic by Regina Galieva
+- [Launching at Scale During a Pandemic](https://noti.st/rgalieva/uexsvf/launching-an-enterprise-web-product-at-scale-during-the-covid-19-pandemic) by Regina Galieva
 - Building a Pinterest Clone by Jordan Hawker
 - Keep It Local by Chris Krycho
 - Learning Ember in 2021 by Lenora Porter
