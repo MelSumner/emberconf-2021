@@ -17,8 +17,8 @@ Spotify playlist: https://open.spotify.com/playlist/2XrNf2azW96IyoM8zGWSsl?si=84
 
 ## Day 2
 
-- Keynote Part 1 by Yehuda Katz
-- Keynote Part 2 by Godfrey Chan
+- [Keynote Part 1](https://slides.com/yehudakatz/emberconf-2021?token=oEP-z8Ab) by Yehuda Katz
+- [Keynote Part 2: State of the Union](https://speakerdeck.com/chancancode/virtual-emberconf-2021-platform-state-of-the-union) by Godfrey Chan
 - [HTML-First Apps are the Future](https://docs.google.com/presentation/d/1wbCUyP6R6E-uNrMBpDGG1-iH6epUJKbq6v_Lt4TYkjs/edit#slide=id.g35f391192_00) by Jen Weber
 - [Launching at Scale During a Pandemic](https://noti.st/rgalieva/uexsvf/launching-an-enterprise-web-product-at-scale-during-the-covid-19-pandemic) by Regina Galieva
 - Building a Pinterest Clone by Jordan Hawker
