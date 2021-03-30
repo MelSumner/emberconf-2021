@@ -14,3 +14,20 @@ Speaker Slides from EmberConf 2021
 - [Cross-File Codemodding](https://www.slideshare.net/JoshuaLawrence6/emberconf-2021-crossfile-codemodding-with-joshua-lawrence) by Joshua Lawrence
 
 Spotify playlist: https://open.spotify.com/playlist/2XrNf2azW96IyoM8zGWSsl?si=84TEpEUoTjiksQ6F-rYzZQ
+
+## Day 2
+
+- Keynote Part 1 by Yehuda Katz
+- Keynote Part 2 by Godfrey Chan
+- HTML-First Apps are the Future by Jen Weber
+- Launching at Scale During a Pandemic by Regina Galieva
+- Building a Pinterest Clone by Jordan Hawker
+- Keep It Local by Chris Krycho
+- Learning Ember in 2021 by Lenora Porter
+- Building a Realtime App with Firebase and Ember M3 by Chris Garrett
+- Typed Ember extends Confidence by Krystan Huffmenne
+- Please wait… Oh, It Didn't Work! by Tobias Bieniek
+- Ending the Plague of Memory Leaks by Steve Szczecina
+- Modernizing a Massive Monolith by Aubrey Knudson
+- Fast-Track Ember with Fastboot + Embroider by Suchita Doshi & Thomas Wang
+- Fun Fast Tools for Serious Work by Ed Faulkner
