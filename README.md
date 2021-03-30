@@ -26,8 +26,8 @@ Spotify playlist: https://open.spotify.com/playlist/2XrNf2azW96IyoM8zGWSsl?si=84
 - [Learning Ember in 2021](https://slides.com/lenoraporter/deck) by Lenora Porter
 - [Building a Realtime App with Firebase and Ember M3](https://slides.com/pzuraq/building-a-realtime-app-with-firebase-and-ember-m3) by Chris Garrett
 - [Typed Ember extends Confidence](https://speakerdeck.com/gitkrystan/typed-ember-extends-confidence) by Krystan Huffmenne
-- Please wait… Oh, It Didn't Work! by Tobias Bieniek
-- Ending the Plague of Memory Leaks by Steve Szczecina
+- [Please wait… Oh, It Didn't Work!](https://speakerdeck.com/turbo87/please-wait-dot-dot-dot-oh-it-didnt-work) by Tobias Bieniek
+- [Ending the Plague of Memory Leaks](https://docs.google.com/presentation/d/e/2PACX-1vRO927zmPUWvHQ6aA0ZpL5g0471cxgXFJ7yQr1FNhYYVJ4rnYH2uTohwPMmgsuIbUfVkwEFX75eJXSj/pub?start=false&loop=false&delayms=15000&slide=id.gbf004f710d_0_305) by Steve Szczecina
 - Modernizing a Massive Monolith by Aubrey Knudson
 - Fast-Track Ember with Fastboot + Embroider by Suchita Doshi & Thomas Wang
 - Fun Fast Tools for Serious Work by Ed Faulkner
