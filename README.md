@@ -24,8 +24,8 @@ Spotify playlist: https://open.spotify.com/playlist/2XrNf2azW96IyoM8zGWSsl?si=84
 - [Building a Pinterest Clone](https://speakerdeck.com/elwayman02/emberconf-21-building-a-pinterest-clone-with-modifiers-and-css-grid) by Jordan Hawker
 - [Keep It Local](https://slides.com/chriskrycho/keep-it-local-emberconf21) by Chris Krycho
 - [Learning Ember in 2021](https://slides.com/lenoraporter/deck) by Lenora Porter
-- Building a Realtime App with Firebase and Ember M3 by Chris Garrett
-- Typed Ember extends Confidence by Krystan Huffmenne
+- [Building a Realtime App with Firebase and Ember M3](https://slides.com/pzuraq/building-a-realtime-app-with-firebase-and-ember-m3) by Chris Garrett
+- [Typed Ember extends Confidence](https://speakerdeck.com/gitkrystan/typed-ember-extends-confidence) by Krystan Huffmenne
 - Please wait… Oh, It Didn't Work! by Tobias Bieniek
 - Ending the Plague of Memory Leaks by Steve Szczecina
 - Modernizing a Massive Monolith by Aubrey Knudson
