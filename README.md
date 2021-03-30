@@ -12,3 +12,5 @@ Speaker Slides from EmberConf 2021
 - [Birds-Eye Vue of Ember](https://github.com/gnclmorais/speaking/blob/master/2021-03-29_EmberConf/2021_Birds-Eye_Vue_of_Ember.pdf) by Gonçalo Morais
 - [Building Forms Mobile Users Will Love](https://jdsteinbach.com/emberconf-inputs/) by James Steinbach
 - [Cross-File Codemodding](https://www.slideshare.net/JoshuaLawrence6/emberconf-2021-crossfile-codemodding-with-joshua-lawrence) by Joshua Lawrence
+
+Spotify playlist: https://open.spotify.com/playlist/2XrNf2azW96IyoM8zGWSsl?si=84TEpEUoTjiksQ6F-rYzZQ
